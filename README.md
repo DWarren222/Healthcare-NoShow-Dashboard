@@ -15,7 +15,8 @@ Analyzed 100,000+ medical appointments to identify factors that influence patien
 
 📷 Dashboard Preview
 ￼
-e)
+![Dashboard Preview](Dashboard.png)
+
 
 ✨ Author
 Destinie Warren
