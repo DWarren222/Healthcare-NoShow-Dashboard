@@ -15,7 +15,7 @@ Analyzed 100,000+ medical appointments to identify factors that influence patien
 
 📷 Dashboard Preview
 ￼
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard_Screenshot.png)
 
 
 ✨ Author
